@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjithujanardhanan&label=Profile%20views&color=0e75b6&style=flat" alt="mjithujanardhanan" /> </p>
 
-- 🔭 I’m currently working on **Differentiable-CUDA-based-ISP**  -https://github.com/mjithujanardhanan/Differentiable-CUDA-based-ISP
+- 🔭 I’m currently working on **CISP Cuda ISP Pipeline**  -[https://github.com/mjithujanardhanan/CISP---Cuda-ISP-Pipeline]
 
 - 🌱 I’m currently learning **CUDA**
 
